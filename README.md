@@ -1,3 +1,3 @@
 # simple-for-speech-command
-this is simple lstm network for speech 
-implementation on pytorch python
+1/ This is simple lstm network for speech command 
+2/ Implementation on pytorch python
