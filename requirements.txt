@@ -1,3 +1,4 @@
 torch
 numpy
 scipy
+python_speech_features
